@@ -31,7 +31,9 @@ Remember to eat hearts. Not only is it natural for Frizps but it also gives you 
 ## Credits
 
 KuroNeko for testing the game.
-Croc for the music. (Will be replaced in the future)
 
+Uses music from Croc Legend of The Gobbos.
+
+Runs on the Unity Engine.
 
 Have fun playing!
