@@ -10,9 +10,13 @@ On your way you must collect gems to gather strength for the final confrontation
 ## Characters
 
 # Frizpy
+![PNG](Character-Frizpy.png?raw=true "Frizpy")
+
 A farmer that went out on a dangerous adventure to save a beautiful maiden. He grew tired of the rules of Fraizko and wanted to give his all to make things good again.
 
 # Princess Butterfly
+![PNG](Character-PrincessButterfly.png?raw=true "PB")
+
 A stranger to the land who became it's ruler after the Snail King died. She got locked inside of an unbreakable ice shard that shrugs off fire.
 
 # Gluttan
